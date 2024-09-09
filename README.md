@@ -1,4 +1,4 @@
-## Olá sou Maria Júlia, desenvolvedora back-end com domínio na linagugem java + spring boot,python,HTML,CSS,C e SQL. Além disso, tenho conhecimento para com levantamento de requisitos e documentação de software.
+## Olá sou Maria Júlia, desenvolvedora back-end com domínio na linagugem java + spring boot,python,HTML,CSS,C e SQL. Além disso, tenho conhecimento para com levantamento de requisitos e documentação de software, aqui você irá conhecer um pouco mais do meu perfil como desenvolvedora :)
 <br />
 <br />
 Linguagens de domínio:
